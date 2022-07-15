@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 web development projects to broaden my horizons
 - 📫 How to reach me ... IG. vand_dnav
-
-s<!--mi nombre es sebastian y soy un super desarrollador-->
+mi nombre es sebastian y soy un super desarrollador
