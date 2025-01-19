@@ -1,3 +1,10 @@
+ #### System Engineer Student
+ ---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4216CC&vCenter=true&width=435&lines=%3C+Full+Stack+Blockchain+Developer+%2F%3E;%3C+System+Engineer+Student+%2F%3E;%3C+Always+learning+something+new+%2F%3E;%3C++I+turn+bugs+into+features+%2F%3E)](https://git.io/typing-svg)
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on **Full Stack Development**<br>🌱 I’m currently learning **Angular, Tailwind CSS, Node.js, TypeScript**<br>💬 Ask me about **Frontend, Backend, APIs, and Clean Code Practices**<br>📫 How to reach me: **sebastian.meguillanes@ucb.edu.bo**<br>⚡ Fun fact: I love exploring new technologies and solving complex problems.
 
