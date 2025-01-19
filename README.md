@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Full Stack Development**<br>🌱 I’m currently learning **Angular, Tailwind CSS, Node.js, TypeScript**<br>💬 Ask me about **Frontend, Backend, APIs, and Clean Code Practices**<br>📫 How to reach me: **sebastianMeguillanes@example.com**<br>⚡ Fun fact: I love exploring new technologies and solving complex problems.
+🔭 I’m currently working on **Full Stack Development**<br>🌱 I’m currently learning **Angular, Tailwind CSS, Node.js, TypeScript**<br>💬 Ask me about **Frontend, Backend, APIs, and Clean Code Practices**<br>📫 How to reach me: **sebastian.meguillanes@ucb.edu.bo**<br>⚡ Fun fact: I love exploring new technologies and solving complex problems.
 
 
 # 🌐 Socials:
@@ -8,10 +8,7 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
@@ -60,6 +57,9 @@
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
  
 ### 🧐 Linters
 
