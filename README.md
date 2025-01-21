@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CB00F7&width=435&lines=%3C+Systems+engineer+%2F%3E;%3C+Fullstack+developer+%2F%3E;%3C+always+learning+something+new+%2F%3E)](https://git.io/typing-svg)
 
+
 ---
 ### ✍️ daily phrase
 
