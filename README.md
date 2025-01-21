@@ -4,16 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CB00F7&width=435&lines=%3C+Systems+engineer+%2F%3E;%3C+Fullstack+developer+%2F%3E;%3C+always+learning+something+new+%2F%3E)](https://git.io/typing-svg)
 
 ---
+### ✍️ daily phrase
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 About Me:
 🔭 I’m currently working on **Full Stack Development**<br>🌱 I’m currently learning **Angular, Tailwind CSS, Node.js, TypeScript**<br>💬 Ask me about **Frontend, Backend, APIs, and Clean Code Practices**<br>📫 How to reach me: **sebastian.meguillanes@ucb.edu.bo**<br>⚡ Fun fact: I love exploring new technologies and solving complex problems.
 
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianMeguillanes) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebastianMeguillanes)
-
 # 💻 Tech Stack:
-
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -111,15 +109,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sebastianMeguillanes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ daily phrase
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sebastianMeguillanes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sebastianMeguillanes&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianMeguillanes) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebastianMeguillanes)
 
